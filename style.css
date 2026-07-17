@@ -32,8 +32,7 @@
 }
 #slider {
 	border-radius: 20px;
-	width: 100%;
-	max-width: 1200px;
+	width: 100px;
 	height: 40px;
 	background: rgba(255, 255, 255, 0.2);
 	background-color: navy;
@@ -70,25 +69,21 @@
 	gap: 20px;
 	align-items: center;
 	position: relative;
-	width: 500%;
-	max-width: 1200px;
+	width: 500px;
 	height: 50px;
 	text-align: center;
 	margin: 0 auto;
-	display: flex;
 }
 
 #login {
 	backdrop-filter: blur(15px);
 	border-radius: 20px;
 	box-shadow: 0px 0px 30px rgba(227, 228, 237, 0.37);
-	width: 500%;
-	max-width: 1200px;
+	width: 500px;
 	height: 500px;
 	margin: 0 auto;
 	align-items: center;
 	text-align: center;
-	display: flex;
 }
 	
 #logint {
@@ -100,8 +95,7 @@
 	left: 40px;
 }
 #username {
-	width: 250%;
-	max-width: 1200px;
+	width: 250px;
 	height: 50px;
 	margin: 0 auto;
 	border-radius: 20px;
@@ -109,8 +103,7 @@
 	box-shadow: 0px 0px 30px rgba(227, 228, 237, 0.37);
 }
 .button {
-	width: 250%
-	max-width: 1200px;;
+	width: 250px;
 	height: 50px;
 	margin: 0 auto;
 	border-radius: 20px;
